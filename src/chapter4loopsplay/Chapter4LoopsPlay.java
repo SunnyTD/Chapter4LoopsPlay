@@ -24,6 +24,7 @@ public class Chapter4LoopsPlay
         4.7.6: Comparing Adjacent Values
         4.8: Nested Loops
         4.10: Application: Random Numbers and Simulations
+        4.10.2: Simulating Dice Toss
          */
     }
 
