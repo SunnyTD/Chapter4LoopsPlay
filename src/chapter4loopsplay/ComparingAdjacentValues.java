@@ -5,6 +5,7 @@ package chapter4loopsplay;
  */
 
 import java.util.Scanner;
+
 public class ComparingAdjacentValues
 {
     public static void main(String[] args)
