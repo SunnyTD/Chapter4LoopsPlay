@@ -25,6 +25,7 @@ public class Chapter4LoopsPlay
         4.8: Nested Loops
         4.10: Application: Random Numbers and Simulations
         4.10.2: Simulating Dice Toss
+        4.10.3: The Monte Carlo Method (pi)
          */
     }
 
